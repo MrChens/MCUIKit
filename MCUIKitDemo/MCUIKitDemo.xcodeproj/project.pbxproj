@@ -7,27 +7,27 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		C926364627DCAF6000517C81 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = C926364527DCAF6000517C81 /* AppDelegate.swift */; };
-		C926364827DCAF6000517C81 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = C926364727DCAF6000517C81 /* SceneDelegate.swift */; };
-		C926364A27DCAF6000517C81 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C926364927DCAF6000517C81 /* ViewController.swift */; };
-		C926364D27DCAF6000517C81 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C926364B27DCAF6000517C81 /* Main.storyboard */; };
-		C926364F27DCAF6100517C81 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C926364E27DCAF6100517C81 /* Assets.xcassets */; };
-		C926365227DCAF6100517C81 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C926365027DCAF6100517C81 /* LaunchScreen.storyboard */; };
+		C926366627DCAFEE00517C81 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = C926366527DCAFEE00517C81 /* AppDelegate.swift */; };
+		C926366827DCAFEE00517C81 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = C926366727DCAFEE00517C81 /* SceneDelegate.swift */; };
+		C926366A27DCAFEE00517C81 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C926366927DCAFEE00517C81 /* ViewController.swift */; };
+		C926366D27DCAFEE00517C81 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C926366B27DCAFEE00517C81 /* Main.storyboard */; };
+		C926366F27DCAFF000517C81 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C926366E27DCAFF000517C81 /* Assets.xcassets */; };
+		C926367227DCAFF000517C81 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C926367027DCAFF000517C81 /* LaunchScreen.storyboard */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		C926364227DCAF6000517C81 /* MCKitDemo.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = MCKitDemo.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		C926364527DCAF6000517C81 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		C926364727DCAF6000517C81 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
-		C926364927DCAF6000517C81 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
-		C926364C27DCAF6000517C81 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
-		C926364E27DCAF6100517C81 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
-		C926365127DCAF6100517C81 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
-		C926365327DCAF6100517C81 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		C926366227DCAFEE00517C81 /* MCUIKitDemo.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = MCUIKitDemo.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		C926366527DCAFEE00517C81 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		C926366727DCAFEE00517C81 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
+		C926366927DCAFEE00517C81 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		C926366C27DCAFEE00517C81 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		C926366E27DCAFF000517C81 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		C926367127DCAFF000517C81 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		C926367327DCAFF000517C81 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		C926363F27DCAF6000517C81 /* Frameworks */ = {
+		C926365F27DCAFEE00517C81 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -37,72 +37,72 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		C926363927DCAF5F00517C81 = {
+		C926365927DCAFEE00517C81 = {
 			isa = PBXGroup;
 			children = (
-				C926364427DCAF6000517C81 /* MCKitDemo */,
-				C926364327DCAF6000517C81 /* Products */,
+				C926366427DCAFEE00517C81 /* MCUIKitDemo */,
+				C926366327DCAFEE00517C81 /* Products */,
 			);
 			sourceTree = "<group>";
 		};
-		C926364327DCAF6000517C81 /* Products */ = {
+		C926366327DCAFEE00517C81 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				C926364227DCAF6000517C81 /* MCKitDemo.app */,
+				C926366227DCAFEE00517C81 /* MCUIKitDemo.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		C926364427DCAF6000517C81 /* MCKitDemo */ = {
+		C926366427DCAFEE00517C81 /* MCUIKitDemo */ = {
 			isa = PBXGroup;
 			children = (
-				C926364527DCAF6000517C81 /* AppDelegate.swift */,
-				C926364727DCAF6000517C81 /* SceneDelegate.swift */,
-				C926364927DCAF6000517C81 /* ViewController.swift */,
-				C926364B27DCAF6000517C81 /* Main.storyboard */,
-				C926364E27DCAF6100517C81 /* Assets.xcassets */,
-				C926365027DCAF6100517C81 /* LaunchScreen.storyboard */,
-				C926365327DCAF6100517C81 /* Info.plist */,
+				C926366527DCAFEE00517C81 /* AppDelegate.swift */,
+				C926366727DCAFEE00517C81 /* SceneDelegate.swift */,
+				C926366927DCAFEE00517C81 /* ViewController.swift */,
+				C926366B27DCAFEE00517C81 /* Main.storyboard */,
+				C926366E27DCAFF000517C81 /* Assets.xcassets */,
+				C926367027DCAFF000517C81 /* LaunchScreen.storyboard */,
+				C926367327DCAFF000517C81 /* Info.plist */,
 			);
-			path = MCKitDemo;
+			path = MCUIKitDemo;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		C926364127DCAF6000517C81 /* MCKitDemo */ = {
+		C926366127DCAFEE00517C81 /* MCUIKitDemo */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = C926365627DCAF6100517C81 /* Build configuration list for PBXNativeTarget "MCKitDemo" */;
+			buildConfigurationList = C926367627DCAFF000517C81 /* Build configuration list for PBXNativeTarget "MCUIKitDemo" */;
 			buildPhases = (
-				C926363E27DCAF6000517C81 /* Sources */,
-				C926363F27DCAF6000517C81 /* Frameworks */,
-				C926364027DCAF6000517C81 /* Resources */,
+				C926365E27DCAFEE00517C81 /* Sources */,
+				C926365F27DCAFEE00517C81 /* Frameworks */,
+				C926366027DCAFEE00517C81 /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
 			);
-			name = MCKitDemo;
-			productName = MCKitDemo;
-			productReference = C926364227DCAF6000517C81 /* MCKitDemo.app */;
+			name = MCUIKitDemo;
+			productName = MCUIKitDemo;
+			productReference = C926366227DCAFEE00517C81 /* MCUIKitDemo.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
-		C926363A27DCAF5F00517C81 /* Project object */ = {
+		C926365A27DCAFEE00517C81 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
 				BuildIndependentTargetsInParallel = 1;
 				LastSwiftUpdateCheck = 1320;
 				LastUpgradeCheck = 1320;
 				TargetAttributes = {
-					C926364127DCAF6000517C81 = {
+					C926366127DCAFEE00517C81 = {
 						CreatedOnToolsVersion = 13.2.1;
 					};
 				};
 			};
-			buildConfigurationList = C926363D27DCAF5F00517C81 /* Build configuration list for PBXProject "MCKitDemo" */;
+			buildConfigurationList = C926365D27DCAFEE00517C81 /* Build configuration list for PBXProject "MCUIKitDemo" */;
 			compatibilityVersion = "Xcode 13.0";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -110,55 +110,55 @@
 				en,
 				Base,
 			);
-			mainGroup = C926363927DCAF5F00517C81;
-			productRefGroup = C926364327DCAF6000517C81 /* Products */;
+			mainGroup = C926365927DCAFEE00517C81;
+			productRefGroup = C926366327DCAFEE00517C81 /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				C926364127DCAF6000517C81 /* MCKitDemo */,
+				C926366127DCAFEE00517C81 /* MCUIKitDemo */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
-		C926364027DCAF6000517C81 /* Resources */ = {
+		C926366027DCAFEE00517C81 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				C926365227DCAF6100517C81 /* LaunchScreen.storyboard in Resources */,
-				C926364F27DCAF6100517C81 /* Assets.xcassets in Resources */,
-				C926364D27DCAF6000517C81 /* Main.storyboard in Resources */,
+				C926367227DCAFF000517C81 /* LaunchScreen.storyboard in Resources */,
+				C926366F27DCAFF000517C81 /* Assets.xcassets in Resources */,
+				C926366D27DCAFEE00517C81 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
-		C926363E27DCAF6000517C81 /* Sources */ = {
+		C926365E27DCAFEE00517C81 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				C926364A27DCAF6000517C81 /* ViewController.swift in Sources */,
-				C926364627DCAF6000517C81 /* AppDelegate.swift in Sources */,
-				C926364827DCAF6000517C81 /* SceneDelegate.swift in Sources */,
+				C926366A27DCAFEE00517C81 /* ViewController.swift in Sources */,
+				C926366627DCAFEE00517C81 /* AppDelegate.swift in Sources */,
+				C926366827DCAFEE00517C81 /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXVariantGroup section */
-		C926364B27DCAF6000517C81 /* Main.storyboard */ = {
+		C926366B27DCAFEE00517C81 /* Main.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
-				C926364C27DCAF6000517C81 /* Base */,
+				C926366C27DCAFEE00517C81 /* Base */,
 			);
 			name = Main.storyboard;
 			sourceTree = "<group>";
 		};
-		C926365027DCAF6100517C81 /* LaunchScreen.storyboard */ = {
+		C926367027DCAFF000517C81 /* LaunchScreen.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
-				C926365127DCAF6100517C81 /* Base */,
+				C926367127DCAFF000517C81 /* Base */,
 			);
 			name = LaunchScreen.storyboard;
 			sourceTree = "<group>";
@@ -166,7 +166,7 @@
 /* End PBXVariantGroup section */
 
 /* Begin XCBuildConfiguration section */
-		C926365427DCAF6100517C81 /* Debug */ = {
+		C926367427DCAFF000517C81 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -227,7 +227,7 @@
 			};
 			name = Debug;
 		};
-		C926365527DCAF6100517C81 /* Release */ = {
+		C926367527DCAFF000517C81 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -282,7 +282,7 @@
 			};
 			name = Release;
 		};
-		C926365727DCAF6100517C81 /* Debug */ = {
+		C926367727DCAFF000517C81 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
@@ -290,7 +290,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				GENERATE_INFOPLIST_FILE = YES;
-				INFOPLIST_FILE = MCKitDemo/Info.plist;
+				INFOPLIST_FILE = MCUIKitDemo/Info.plist;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
@@ -301,7 +301,7 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = com.IFuny.MCKitDemo;
+				PRODUCT_BUNDLE_IDENTIFIER = com.IFuny.MCUIKitDemo;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
@@ -309,7 +309,7 @@
 			};
 			name = Debug;
 		};
-		C926365827DCAF6100517C81 /* Release */ = {
+		C926367827DCAFF000517C81 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
@@ -317,7 +317,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				GENERATE_INFOPLIST_FILE = YES;
-				INFOPLIST_FILE = MCKitDemo/Info.plist;
+				INFOPLIST_FILE = MCUIKitDemo/Info.plist;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
@@ -328,7 +328,7 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = com.IFuny.MCKitDemo;
+				PRODUCT_BUNDLE_IDENTIFIER = com.IFuny.MCUIKitDemo;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
@@ -339,25 +339,25 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		C926363D27DCAF5F00517C81 /* Build configuration list for PBXProject "MCKitDemo" */ = {
+		C926365D27DCAFEE00517C81 /* Build configuration list for PBXProject "MCUIKitDemo" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				C926365427DCAF6100517C81 /* Debug */,
-				C926365527DCAF6100517C81 /* Release */,
+				C926367427DCAFF000517C81 /* Debug */,
+				C926367527DCAFF000517C81 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		C926365627DCAF6100517C81 /* Build configuration list for PBXNativeTarget "MCKitDemo" */ = {
+		C926367627DCAFF000517C81 /* Build configuration list for PBXNativeTarget "MCUIKitDemo" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				C926365727DCAF6100517C81 /* Debug */,
-				C926365827DCAF6100517C81 /* Release */,
+				C926367727DCAFF000517C81 /* Debug */,
+				C926367827DCAFF000517C81 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
-	rootObject = C926363A27DCAF5F00517C81 /* Project object */;
+	rootObject = C926365A27DCAFEE00517C81 /* Project object */;
 }

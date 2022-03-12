@@ -1,6 +1,6 @@
 //
 //  AppDelegate.swift
-//  MCKitDemo
+//  MCUIKitDemo
 //
 //  Created by sawalon.chen on 2022/3/12.
 //
